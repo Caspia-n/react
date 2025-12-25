@@ -1,9 +1,11 @@
-import { Button } from "@herui/button";
+import { Button } from "@heroui/button";
 
 export default function Page() {
   return (
-    <Button>
-      hello
-    </Button>
+    <html>
+      <body>
+        <Button color="primary">Button</Button>
+      </body>
+    </html>
   );
 }
