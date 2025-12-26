@@ -1,11 +1,8 @@
-import { Button } from "@heroui/button";
+import { Card } from "@heroui/card";
+import { Counter } from "@/components/counter";
 
 export default function Page() {
   return (
-    <html>
-      <body>
-        <Button color="primary">Button</Button>
-      </body>
-    </html>
+    
   );
 }
